@@ -1,0 +1,18 @@
+HTTrack3.49-2 launched on Tue, 23 Sep 2025 10:57:43 at https://maisytien.com/?fbclid=Iwb21leAM-QtZjbGNrAz5C02V4dG4DYWVtAjExAAEeiy_Ez2sms8aa7NS5S87fNWieHu64pDkmHF3m6e2RtBHjezqb0YPwWHvD-Qo_aem_TJ3LyKme6NZUFQcoXKjxiQ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O /storage/emulated/0/HTTrack/Websites/huy -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://maisytien.com/?fbclid=Iwb21leAM-QtZjbGNrAz5C02V4dG4DYWVtAjExAAEeiy_Ez2sms8aa7NS5S87fNWieHu64pDkmHF3m6e2RtBHjezqb0YPwWHvD-Qo_aem_TJ3LyKme6NZUFQcoXKjxiQ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:58:15	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/huy/maisytien.com/assets/images/icon-design.svg
+10:58:15	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/huy/maisytien.com/assets/images/icon-dev.svg
+10:58:15	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/huy/maisytien.com/assets/images/icon-app.svg
+10:58:15	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/huy/maisytien.com/assets/images/icon-photo.svg
+10:58:15	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/huy/maisytien.com/assets/images/icon-quote.svg
+10:58:18	Error: 	"Not Found" (404) at link https://maisytien.com/css (1)/style.css (from https://maisytien.com/?fbclid=Iwb21leAM-QtZjbGNrAz5C02V4dG4DYWVtAjExAAEeiy_Ez2sms8aa7NS5S87fNWieHu64pDkmHF3m6e2RtBHjezqb0YPwWHvD-Qo_aem_TJ3LyKme6NZUFQcoXKjxiQ)
+10:58:18	Error: 	"Not Found" (404) at link https://maisytien.com/assets/images/img.jpg (from https://maisytien.com/?fbclid=Iwb21leAM-QtZjbGNrAz5C02V4dG4DYWVtAjExAAEeiy_Ez2sms8aa7NS5S87fNWieHu64pDkmHF3m6e2RtBHjezqb0YPwWHvD-Qo_aem_TJ3LyKme6NZUFQcoXKjxiQ)
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 seconds : 34 links scanned, 31 files written (802983 bytes overall) [666329 bytes received at 19037 bytes/sec], 244987 bytes transferred using HTTP compression in 19 files, ratio 30%, 5.8 requests per connection
+(2 errors, 5 warnings, 0 messages)
